@@ -1,0 +1,7 @@
+A1;Good;Strong;true;10/02/2019;3
+A2;Good;Light;true;10/03/2020;2
+A3;Good;Strong;false;10/04/2020;3
+A8;Very good;Strong;true;10/10/2020;8
+A9;Very good;Strong;true;10/07/2020;9
+A10;Normal;Light;false;10/07/2020;1
+A35;Normal;Light;false;10/07/2020;1
